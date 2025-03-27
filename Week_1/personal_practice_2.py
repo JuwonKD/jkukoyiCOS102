@@ -15,4 +15,3 @@ if help_input == "start" :
 if help_input == "stop" :
     print("Car stopped")
 
-if help_input == "quit" :
