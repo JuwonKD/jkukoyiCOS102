@@ -4,7 +4,7 @@ game_2 = 4
 print(bool(game_1 == game_2))
 
 # Returns False as val is None
-val = None
+val = 0
 print(bool(val)) 
 
 # Returns false as num is an empty sequence 
